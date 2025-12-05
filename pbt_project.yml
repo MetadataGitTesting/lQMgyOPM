@@ -1,0 +1,50 @@
+name: gerardo.hackett
+description: Visionary
+version: 0.0.1
+author: vj42whry.usnzd7ol@gjwwgwer.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: gerardohackett
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 21:50:47'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:50:47'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T21:50:47.563714Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '426335598'
+  createdAt: '2025-12-05T21:50:47.563714Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
